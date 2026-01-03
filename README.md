@@ -1,6 +1,6 @@
-# WWW-5
+# WWW-6
 womenweb3women
-# Women Web3 Wave #5 Demoday
+# Women Web3 Wave #6 Demoday
 
 
 大女人们，🎉🎉恭喜完成7 days in Web3 挑战🎉🎉！度日如年，好在我们坚持下来啦，现在是展示你的想法，发声的时候啦。开始你的改变世界之旅吧。
@@ -9,7 +9,7 @@ womenweb3women
 
 ## [代码提交]
 
-### 1. 创建你的 HerSolidity-Minihackathon-2025 项目
+### 1. 创建你的 HerSolidity-Minihackathon-2026 项目
 
 1. 报名注册完成后，可以立即开始项目创建，fork 本代码仓库，到你们团队成员 repo 里: [https://github.com/0xherstory/womenweb3wave4.5.git](https://github.com/0xherstory/WWW-5.git)
 2. 先在 `projects` 内生成一个目录，以你们项目名称命名，里面先放个空档案，或 readme 简单介绍项目。提交一个 PR 进来。目的是预留一个目录作为你们项目空间。**注意我们会把目录改名，在项目名称前加个编号。请 pull 下来。**
@@ -30,9 +30,9 @@ womenweb3women
 
 4. 推送最终PR的分支，建议以项目命名， 且只可修改本团队项目目录内容。
 
-5. 请在 `2025年9月27日上午24:00` (北京时区）前，初始化团队项目目录。
+5. 请在 `2026年01月04日上午24:00` (北京时区）前，初始化团队项目目录。
 
-6. 最终PR，在 `2025年9月27日24:00` （北京时区）前提交，且各团队自己发起MR请求。
+6. 最终PR，在 `2026年01月04日24:00` （北京时区）前提交，且各团队自己发起MR请求。
 
 7. [项目参考模块,点我查看详情](https://github.com/0xherstory/womenweb3wave4.5/blob/main/demo-projects-submit-here/00-proj-template/project-intro-includes.md)
 
